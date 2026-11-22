@@ -562,3 +562,60 @@ footer>small {
     text-transform: uppercase;
     color: #fff !important
 }
+/* ACCESIBILIDAD - CONTRASTE MEJORADO */
+
+.kicker {
+    color: #34483b;
+}
+
+.grid small {
+    color: #34483b;
+}
+
+.grid p {
+    color: #34483b;
+}
+
+.steps p {
+    color: #34483b;
+}
+
+.contact .kicker {
+    color: #34483b;
+}
+
+.about h2 i {
+    color: #665337;
+}
+
+/* Textos sobre fotografías oscuras */
+.kicker.light {
+    color: #fff;
+}
+/* CONTRASTE EN PÁGINAS DE SERVICIOS */
+
+/* Párrafos de Flores, Registros, Reiki, etc. */
+.detail p {
+    color: #34483b;
+}
+
+/* Subtítulos pequeños */
+.detail .kicker {
+    color: #34483b;
+}
+
+/* Citas destacadas */
+.detail blockquote {
+    color: #24332d;
+}
+
+/* Enlaces para volver */
+.detail .back {
+    color: #34483b;
+}
+
+/* Etiquetas sobre imágenes oscuras */
+.detail-hero .kicker,
+.detail-hero .service-location {
+    color: #fff;
+}
